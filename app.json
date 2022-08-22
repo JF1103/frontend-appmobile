@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sdk-46",
-    "slug": "sdk-46",
+    "name": "app-mobile",
+    "slug": "appmobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
